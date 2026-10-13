@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mikhaeel Atef Rizk
 
-<!--
-**mikhaeelatefrizk/mikhaeelatefrizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mikhaeel Atef Rizk Wahba** · [@mikhaeelatefrizk](https://github.com/mikhaeelatefrizk) · Cairo, Egypt
 
-Here are some ideas to get you started:
+I build open-source software for computational biology, bioinformatics and reproducible research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile is the main place to find my current public work.
+
+## Selected projects
+
+| Project | What you will find |
+| --- | --- |
+| [Bindsight](https://github.com/mikhaeelatefrizk/bindsight) | A workflow connecting human bulk RNA-seq analysis with computational protein binder design, with code, evidence and documented limitations. Predicted structures do not establish experimental binding. |
+| [Affect labeling review](https://github.com/mikhaeelatefrizk/affect-labeling-review) | A systematic review and meta-analysis project with manuscript, analysis code and data-quality documentation. Read the repository's limitations before reusing the findings or screening corpus. |
+| [Workout Tracker](https://github.com/mikhaeelatefrizk/workout-tracker) | An offline-first workout app that stores your training logs locally in your browser. |
+
+## Research identity
+
+[ORCID: 0009-0006-1069-9558](https://orcid.org/0009-0006-1069-9558)
+
+For each project's current status, setup instructions, evidence and limitations, use its linked repository.
